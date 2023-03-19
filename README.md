@@ -1,3 +1,3 @@
-# new_repository
+LOCAL
 
 hey you!
